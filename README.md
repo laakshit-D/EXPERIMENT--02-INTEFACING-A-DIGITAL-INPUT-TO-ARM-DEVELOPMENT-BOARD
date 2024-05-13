@@ -14,13 +14,13 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 3. select the target to be programmed  as shown below and click on next
 
-4.select the program name 
+4. select the program name 
 
 5. corresponding ioc file will be generated automatically 
 
-6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+6. select the appropriate pins as gipo, in or out, USART or required options and configure 
 
-7.click on cntrl+S , automaticall C program will be generated 
+7. click on cntrl+S , automaticall C program will be generated 
 
 8. edit the program and as per required 
 
